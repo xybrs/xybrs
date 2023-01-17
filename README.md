@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdullah (only in name)
+- 👋 Hi, I’m Abdullah
 - 👀 I’m interested in Maths, CS, Chess.
 - 💞️ I’m looking to collaborate on anything challenging and fun.
 - 📫 Email me at xybrs@outlook.com
